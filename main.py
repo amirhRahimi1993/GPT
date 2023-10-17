@@ -1,3 +1,4 @@
+# This code is orignally belong to Andrekarpathy I just rewrite it that's it :)
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
